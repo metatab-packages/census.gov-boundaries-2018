@@ -1,1 +1,3 @@
 metapack-build
+geoid>=1.1.2
+rowgenerators>=0.9.10
